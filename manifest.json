@@ -3,8 +3,8 @@
     "description": "I will test here all functions!",
     "version": "0.0.1",
     "manifest_version": 3,
-    "browser_action": {
-        "default_title": "This is tooltip for extension!",
+    "action": {
+        "default_title": "This is a tooltip for extension!",
         "default_popup": "popup.html"
     }
 }
